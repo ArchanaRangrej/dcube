@@ -117,6 +117,18 @@
 
           <div class="col-md-6">
           	<div id="map"></div>
+            <script>
+// Initialize and add the map
+function initMap() {
+  // The location of Uluru
+  var uluru = {lat: -25.344, lng: 131.036};
+  // The map, centered at Uluru
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 4, center: uluru});
+  // The marker, positioned at Uluru
+  var marker = new google.maps.Marker({position: uluru, map: map});
+}
+    </script>
           </div>
         </div>
       </div>
@@ -207,8 +219,8 @@
   <script src="js/bootstrap-datepicker.js"></script>
   <script src="js/jquery.timepicker.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-RYyugoX4ijvxxnQEujYDlLPz-taMtgI&callback=initMap"></script>
+  <!-- <script src="js/google-map.js"></script> -->
   <script src="js/main.js"></script>
     
   </body>

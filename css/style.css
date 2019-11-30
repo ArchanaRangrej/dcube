@@ -9748,13 +9748,13 @@ a {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    color: #ffcdcd
+    color: #060e76
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #ffcdcd;
+    color: #060e76;
     outline: none!important
 }
 
@@ -9774,7 +9774,7 @@ h5,
 }
 
 .text-primary {
-    color: #ffcdcd!important
+    color: #060e76!important
 }
 
 .ftco-navbar-light {
@@ -9899,12 +9899,12 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a:hover {
-    background: #ffcdcd;
-    border: 1px solid #ffcdcd
+    background: #060e76;
+    border: 1px solid #060e76
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta.cta-colored span {
-    border-color: #ffcdcd
+    border-color: #060e76
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
@@ -9933,12 +9933,12 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-item.active>a {
-    color: #ffcdcd!important
+    color: #060e76!important
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta>a {
     color: #fff!important;
-    background: #ffcdcd;
+    background: #060e76;
     border: none!important;
     padding-top: .5rem!important;
     padding-bottom: .5rem!important;
@@ -9957,7 +9957,7 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #ffcdcd
+    border-color: #060e76
 }
 
 @media(max-width:991.98px) {
@@ -9995,7 +9995,7 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-link.active {
-    color: #ffcdcd!important
+    color: #060e76!important; /*#060e76*/
 }
 
 .ftco-navbar-light.scrolled.awake {
@@ -10136,7 +10136,7 @@ h5,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     margin-top: -10px;
-    color: #ffcdcd!important;
+    color: #060e76!important;
     -moz-transition: all .7s ease;
     -o-transition: all .7s ease;
     -webkit-transition: all .7s ease;
@@ -10305,7 +10305,7 @@ h5,
     content: '';
     width: 3px;
     height: 80px;
-    background: #ffcdcd
+    background: #060e76
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h1 {
@@ -10461,7 +10461,7 @@ h5,
 }
 
 .bg-primary {
-    background: #ffcdcd
+    background: #060e76
 }
 
 .ftc-no-pb {
@@ -10485,26 +10485,26 @@ h5,
 }
 
 .btn.btn-primary {
-    background: #ffcdcd;
-    border: 1px solid #ffcdcd;
+    background: #060e76;
+    border: 1px solid #060e76;
     color: #fff
 }
 
 .btn.btn-primary:hover {
-    border: 1px solid #ffcdcd;
+    border: 1px solid #060e76;
     background: 0 0;
-    color: #ffcdcd
+    color: #060e76
 }
 
 .btn.btn-primary.btn-outline-primary {
-    border: 1px solid #ffcdcd;
+    border: 1px solid #060e76;
     background: 0 0;
-    color: #ffcdcd
+    color: #060e76
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
     border: 1px solid transparent;
-    background: #ffcdcd;
+    background: #060e76;
     color: #fff
 }
 
@@ -10518,7 +10518,7 @@ h5,
 .btn.btn-white:focus,
 .btn.btn-white:active {
     border: 1px solid #fff;
-    color: #ffcdcd
+    color: #060e76
 }
 
 .btn.btn-white.btn-outline-white {
@@ -10537,13 +10537,13 @@ h5,
 .btn.btn-white.btn-outline-white:active {
     background: #fff;
     border-color: #fff;
-    color: #ffcdcd
+    color: #060e76
 }
 
 .btn-custom {
     font-weight: 500;
-    color: #ff9a9a;
-    border-bottom: 4px solid #ffe1e1
+    color: #060e76;
+    border-bottom: 4px solid #060e76;
 }
 
 .ftco-services {
@@ -10566,7 +10566,7 @@ h5,
     position: relative;
     width: 100px;
     height: 100px;
-    background: #ffcdcd;
+    background: #060e76; /*#060e76;*/
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -10649,7 +10649,7 @@ h5,
     width: 80px;
     height: 80px;
     margin: 0 auto;
-    background: #ffcdcd;
+    background: #060e76;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -10702,7 +10702,7 @@ h5,
 }
 
 .staff .text .position {
-    color: #ffcdcd;
+    color: #060e76;
     display: block
 }
 
@@ -10759,7 +10759,7 @@ h5,
 .blog-entry .text .heading a:hover,
 .blog-entry .text .heading a:focus,
 .blog-entry .text .heading a:active {
-    color: #ffcdcd
+    color: #060e76
 }
 
 .blog-entry .text .meta-chat {
@@ -10805,7 +10805,7 @@ h5,
 
 .block-27 ul li a,
 .block-27 ul li span {
-    border: 1px solid #ffcdcd;
+    border: 1px solid #060e76;
     text-align: center;
     display: inline-block;
     width: 40px;
@@ -10816,7 +10816,7 @@ h5,
 
 .block-27 ul li.active a,
 .block-27 ul li.active span {
-    background: #ffcdcd;
+    background: #060e76;
     color: #fff;
     border: 1px solid transparent
 }
@@ -10870,7 +10870,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-    background: #ffcdcd!important
+    background: #060e76!important
 }
 
 .about-author .desc h3 {
@@ -10985,7 +10985,7 @@ textarea.form-control {
 
 .footer-small-nav>li a:hover,
 .footer-small-nav>li a:focus {
-    color: #ffcdcd
+    color: #060e76
 }
 
 .media .ftco-icon {
@@ -10993,7 +10993,7 @@ textarea.form-control {
 }
 
 .media .ftco-icon span {
-    color: #ffcdcd
+    color: #060e76
 }
 
 #map {
@@ -11069,7 +11069,7 @@ textarea.form-control {
     width: 100%;
     height: 1px;
     content: '';
-    background: #ffcdcd
+    background: #060e76
 }
 
 .heading-section.heading-section-white .subheading {
@@ -11187,7 +11187,7 @@ textarea.form-control {
 }
 
 .testimony-section .owl-dots .owl-dot.active {
-    background: #ffcdcd
+    background: #060e76
 }
 
 .testimony-wrap {
@@ -11219,7 +11219,7 @@ textarea.form-control {
 }
 
 .testimony-wrap .user-img .quote i {
-    color: #ffcdcd
+    color: #060e76
 }
 
 .testimony-wrap .name {
@@ -11248,7 +11248,7 @@ textarea.form-control {
     content: '';
     width: 3px;
     height: 30px;
-    background: #ffcdcd
+    background: #060e76
 }
 
 @media(max-width:767.98px) {
@@ -11337,7 +11337,7 @@ textarea.form-control {
     display: block;
     font-size: 72px;
     font-weight: 700;
-    color: #ffcdcd
+    color: #060e76
 }
 
 .ftco-counter .ftco-label {
@@ -11407,7 +11407,7 @@ textarea.form-control {
 .block-21 .text .heading a:hover,
 .block-21 .text .heading a:active,
 .block-21 .text .heading a:focus {
-    color: #ffcdcd
+    color: #060e76
 }
 
 .block-21 .text .meta>div {
@@ -11546,7 +11546,7 @@ textarea.form-control {
 }
 
 .subs-wrap {
-    background: #ffcdcd!important;
+    background: #060e76!important;
     display: block;
     width: 100%;
     color: rgba(255, 255, 255, .7)
