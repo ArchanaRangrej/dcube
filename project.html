@@ -98,6 +98,11 @@
 
 		<section class="ftco-section d-none" id="gallery">
 			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 col-lg-12 btn-back mb-2 text-right">
+						<button type="button" class="btn btn-primary"><i class="icon-chevron-circle-left"></i> Back</button>
+					</div>
+				</div>
 				<div class="row no-gutters">
 					<div class="col-md-6 col-lg-3 ftco-animate">
 						<div class="project">
@@ -308,6 +313,11 @@
 				// $('#gallery').addClass('d-block');
 
 				$(this).parents('.ftco-section').addClass('d-none');
-			})
+			});
+
+			$('.btn-back').click(function() {
+				$('.project-link').parents('.ftco-section').removeClass('d-none');
+				$('#gallery').addClass('d-none');
+			});
 		});
 	</script>
