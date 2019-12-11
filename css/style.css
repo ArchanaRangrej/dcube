@@ -9748,13 +9748,13 @@ a {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    color: #060e76
+    color: #040952
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #060e76;
+    color: #040952;
     outline: none!important
 }
 
@@ -9774,7 +9774,7 @@ h5,
 }
 
 .text-primary {
-    color: #060e76!important
+    color: #040952!important
 }
 
 .ftco-navbar-light {
@@ -9788,7 +9788,7 @@ h5,
 
 @media(max-width:991.98px) {
     .ftco-navbar-light {
-        background: #000!important;
+        background: #040952!important;
         position: relative;
         top: 0
     }
@@ -9806,7 +9806,7 @@ h5,
 
 @media(min-width:768px) {
     .ftco-navbar-light .navbar-brand.navbar-brand-black {
-        color: #000
+        color: #040952
     }
 }
 
@@ -9899,12 +9899,12 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a:hover {
-    background: #060e76;
-    border: 1px solid #060e76
+    background: #040952;
+    border: 1px solid #040952
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.cta.cta-colored span {
-    border-color: #060e76
+    border-color: #040952
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
@@ -9933,12 +9933,12 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-item.active>a {
-    color: #060e76!important
+    color: #040952!important
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta>a {
     color: #fff!important;
-    background: #060e76;
+    background: #040952;
     border: none!important;
     padding-top: .5rem!important;
     padding-bottom: .5rem!important;
@@ -9957,7 +9957,7 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-    border-color: #060e76
+    border-color: #040952
 }
 
 @media(max-width:991.98px) {
@@ -9995,7 +9995,7 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .nav-link.active {
-    color: #060e76!important; /*#060e76*/
+    color: #040952!important; /*#060e76*/
 }
 
 .ftco-navbar-light.scrolled.awake {
@@ -10012,7 +10012,7 @@ h5,
 }
 
 .ftco-navbar-light.scrolled .navbar-brand {
-    color: #000
+    color: #040952
 }
 
 .navbar-brand {
@@ -10136,7 +10136,7 @@ h5,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     margin-top: -10px;
-    color: #060e76!important;
+    color: #040952!important;
     -moz-transition: all .7s ease;
     -o-transition: all .7s ease;
     -webkit-transition: all .7s ease;
@@ -10305,7 +10305,7 @@ h5,
     content: '';
     width: 3px;
     height: 80px;
-    background: #060e76
+    background: #040952
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h1 {
@@ -10461,7 +10461,7 @@ h5,
 }
 
 .bg-primary {
-    background: #060e76
+    background: #040952
 }
 
 .ftc-no-pb {
@@ -10485,26 +10485,26 @@ h5,
 }
 
 .btn.btn-primary {
-    background: #060e76;
-    border: 1px solid #060e76;
+    background: #040952;
+    border: 1px solid #040952;
     color: #fff
 }
 
 .btn.btn-primary:hover {
-    border: 1px solid #060e76;
+    border: 1px solid #040952;
     background: 0 0;
-    color: #060e76
+    color: #040952
 }
 
 .btn.btn-primary.btn-outline-primary {
-    border: 1px solid #060e76;
+    border: 1px solid #040952;
     background: 0 0;
-    color: #060e76
+    color: #040952
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
     border: 1px solid transparent;
-    background: #060e76;
+    background: #040952;
     color: #fff
 }
 
@@ -10518,7 +10518,7 @@ h5,
 .btn.btn-white:focus,
 .btn.btn-white:active {
     border: 1px solid #fff;
-    color: #060e76
+    color: #040952
 }
 
 .btn.btn-white.btn-outline-white {
@@ -10537,13 +10537,13 @@ h5,
 .btn.btn-white.btn-outline-white:active {
     background: #fff;
     border-color: #fff;
-    color: #060e76;
+    color: #040952;
 }
 
 .btn-custom {
     font-weight: 500;
-    color: #060e76;
-    border-bottom: 4px solid #060e76;
+    color: #040952;
+    border-bottom: 4px solid #040952;
 }
 
 .ftco-services {
@@ -10566,7 +10566,7 @@ h5,
     position: relative;
     width: 100px;
     height: 100px;
-    background: #060e76; /*#060e76;*/
+    background: #040952; /*#040952;*/
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -10653,7 +10653,7 @@ h5,
     width: 80px;
     height: 80px;
     margin: 0 auto;
-    background: #060e76;
+    background: #040952;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -10706,7 +10706,7 @@ h5,
 }
 
 .staff .text .position {
-    color: #060e76;
+    color: #040952;
     display: block
 }
 
@@ -10763,7 +10763,7 @@ h5,
 .blog-entry .text .heading a:hover,
 .blog-entry .text .heading a:focus,
 .blog-entry .text .heading a:active {
-    color: #060e76
+    color: #040952
 }
 
 .blog-entry .text .meta-chat {
@@ -10809,7 +10809,7 @@ h5,
 
 .block-27 ul li a,
 .block-27 ul li span {
-    border: 1px solid #060e76;
+    border: 1px solid #040952;
     text-align: center;
     display: inline-block;
     width: 40px;
@@ -10820,7 +10820,7 @@ h5,
 
 .block-27 ul li.active a,
 .block-27 ul li.active span {
-    background: #060e76;
+    background: #040952;
     color: #fff;
     border: 1px solid transparent
 }
@@ -10874,7 +10874,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-    background: #060e76!important
+    background: #040952!important
 }
 
 .about-author .desc h3 {
@@ -10892,7 +10892,7 @@ textarea.form-control {
 
 .ftco-footer {
     font-size: 14px;
-    background: #060e76;/*#141313;*/
+    background: #040952;/*#141313;*/
     padding: 6em 0
 }
 
@@ -10989,7 +10989,7 @@ textarea.form-control {
 
 .footer-small-nav>li a:hover,
 .footer-small-nav>li a:focus {
-    color: #060e76
+    color: #040952
 }
 
 .media .ftco-icon {
@@ -10997,7 +10997,7 @@ textarea.form-control {
 }
 
 .media .ftco-icon span {
-    color: #060e76
+    color: #040952
 }
 
 #map {
@@ -11073,7 +11073,7 @@ textarea.form-control {
     width: 100%;
     height: 1px;
     content: '';
-    background: #060e76
+    background: #040952
 }
 
 .heading-section.heading-section-white .subheading {
@@ -11191,7 +11191,7 @@ textarea.form-control {
 }
 
 .testimony-section .owl-dots .owl-dot.active {
-    background: #060e76
+    background: #040952
 }
 
 .testimony-wrap {
@@ -11223,7 +11223,7 @@ textarea.form-control {
 }
 
 .testimony-wrap .user-img .quote i {
-    color: #060e76
+    color: #040952
 }
 
 .testimony-wrap .name {
@@ -11252,7 +11252,7 @@ textarea.form-control {
     content: '';
     width: 3px;
     height: 30px;
-    background: #060e76
+    background: #040952
 }
 
 @media(max-width:767.98px) {
@@ -11341,7 +11341,7 @@ textarea.form-control {
     display: block;
     font-size: 72px;
     font-weight: 700;
-    color: #060e76
+    color: #040952
 }
 
 .ftco-counter .ftco-label {
@@ -11411,7 +11411,7 @@ textarea.form-control {
 .block-21 .text .heading a:hover,
 .block-21 .text .heading a:active,
 .block-21 .text .heading a:focus {
-    color: #060e76
+    color: #040952
 }
 
 .block-21 .text .meta>div {
@@ -11550,7 +11550,7 @@ textarea.form-control {
 }
 
 .subs-wrap {
-    background: #060e76!important;
+    background: #040952!important;
     display: block;
     width: 100%;
     color: rgba(255, 255, 255, .7)
